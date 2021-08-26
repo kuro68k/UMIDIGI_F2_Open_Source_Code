@@ -1,0 +1,8 @@
+The following files were removed due to GitHub max file size limits.
+
+Name                                                       Size        Modified  Attr   Location
+
+imgi_5344_4016_yuy2.h                                    150 MB 24/04/2020 18:13-a----- I:\completed torrents\UMIDIGI_F2_O...\hardware\mtkcam\drv\src\isp\mt6768\iopipe\p2debugtest\pic
+imgo_a_golden.dhex                                       163 MB 24/04/2020 18:13-a----- I:\completed torrents\UMIDIGI_F2_...\drv\src\isp\mt6768\isp\test\Emulation\CAM_TWIN_FULL\Golden
+imgo_b_golden.dhex                                       163 MB 24/04/2020 18:13-a----- I:\completed torrents\UMIDIGI_F2_...\drv\src\isp\mt6768\isp\test\Emulation\CAM_TWIN_FULL\Golden
+pack-d98f4288152903e58fabdcdb8b4d4ae648386b53.pack      1.64 GB     Today 18:40 ra----- I:\completed torrents\UMIDIGI_F2_Open_Source_Code\.git\objects\pack
